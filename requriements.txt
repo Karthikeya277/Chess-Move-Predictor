@@ -6,11 +6,5 @@ torchvision>=0.15.0
 Pillow>=9.5.0
 pandas>=2.0.0
 matplotlib>=3.7.0
-opencv-python>=4.8.0
-
-# System dependencies
-cffi>=1.15.1
-pycparser>=2.21
-
-# Optional: For better performance
+opencv-python-headless>=4.8.0
 scipy>=1.10.0
