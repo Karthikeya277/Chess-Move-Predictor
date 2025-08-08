@@ -1,3 +1,16 @@
-streamlit
-opencv-python
-numpy
+streamlit>=1.28.0
+python-chess==1.999
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+Pillow>=9.5.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+opencv-python>=4.8.0
+
+# System dependencies
+cffi>=1.15.1
+pycparser>=2.21
+
+# Optional: For better performance
+scipy>=1.10.0
