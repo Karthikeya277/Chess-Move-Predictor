@@ -1,4 +1,4 @@
-import cv2 as cv
+
 import numpy as np
 import chess
 from tensorflow.keras.models import load_model
@@ -1384,4 +1384,5 @@ def main():
 
 # Run the main application
 if __name__ == "__main__":
+
     main()
